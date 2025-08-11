@@ -28,7 +28,7 @@ Airflow, AWS S3, Postgres, Pandas, SQLAlchemy, Plotly Dash, Docker, Python 3.11
 | DAGs healthy           |<img width="1429" height="499" alt="DAGS 1" src="https://github.com/user-attachments/assets/3297b102-04b0-454d-930d-0e315f47768b" />|
 | Extract success        |<img width="1439" height="813" alt="DAG weather" src="https://github.com/user-attachments/assets/cd39dd42-6724-434b-89e1-5180dee12011" />|
 | Transform/load success |<img width="1435" height="783" alt="DAG Transform" src="https://github.com/user-attachments/assets/22a77f11-43c0-4ee5-a0a5-d4fa0690a2ed" />|
-| Raw S3 object          |<img width="1399" height="618" alt="S3 bucket 2" src="https://github.com/user-attachments/assets/64b8f231-ad5d-405e-aa9c-fb92da84d68c" />|
+| S3 bucket          |<img width="1399" height="618" alt="S3 bucket 2" src="https://github.com/user-attachments/assets/64b8f231-ad5d-405e-aa9c-fb92da84d68c" />|
 | Dashboard              |<img width="1140" height="653" alt="Dashboard" src="https://github.com/user-attachments/assets/ae512977-6416-4663-a87a-d7f0c7048c88" />|
 
 
